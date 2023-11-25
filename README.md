@@ -6,7 +6,7 @@ A continuación te dejo el enlace a una mini guia que estoy creando sobre los te
 Si ya tienes una buena experiencia en programación en python y buenos conocimientos de Bitcoin  y Linux te recomiendo que vayas directamente a las siguientes fuentes:
 
 * [Jon's Atack Bitcoin Compile Guide](https://jonatack.github.io/articles/how-to-compile-bitcoin-core-and-run-the-tests) 
-* [Slides Chaincode Labs](https://telaviv2019.bitcoinedge.org/files/test-framework-in-bitcoin-core.pdf)l último enlace pertenece a "Onboarding Bitcoin Core", que es una fuente increíble de conocimientos sobre Bitcoin. Aquí tienes un par de enlaces:
+* [Slides Chaincode Labs](https://telaviv2019.bitcoinedge.org/files/test-framework-in-bitcoin-core.pdf)
 * [Functional Test Framework](https://github.com/chaincodelabs/bitcoin-core-onboarding/blob/main/functional_test_framework.asciidoc) 
 * [Onboarding to Bitcoin Core Github Markdown documents](https://github.com/chaincodelabs/onboarding-to-bitcoin-core)
 * [OBC Bitcoincore Academy](https://bitcoincore.academy/)
