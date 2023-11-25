@@ -8,4 +8,12 @@ El último enlace pertenece a "Onboarding Bitcoin Core", que es una fuente incre
 * [Onboarding to Bitcoin Core Github Markdown documents](https://github.com/chaincodelabs/onboarding-to-bitcoin-core)
 * [OBC Bitcoincore Academy](https://bitcoincore.academy/)
 
-TO BE CONTINUED
+## Estructura de los test funcionales
+En el directorio *test/functional* tenemos todos los test funcionales de Bitcoin Core asi como los constituyentes elementales del framework **test/functional/test_framework/**. Vemos que los nombres de los test siguen una nomenclatura precisa. Como prefijo del nombre del test tienen la categoria a la que pertenecen los tests (mempool, mining, rpc etc ..)
+Podemos lanzar más de un test a la vez de la siguente forma:
+```
+test/functional/test_runner.py test/functional/wallet*
+```
+
+
+
